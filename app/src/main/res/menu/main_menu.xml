@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!--
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="1"
+        android:title="Wyślij ponownie">
+    </item>
+-->
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="1"
+        android:title="Wyjście">
+    </item>
+
+</menu>
